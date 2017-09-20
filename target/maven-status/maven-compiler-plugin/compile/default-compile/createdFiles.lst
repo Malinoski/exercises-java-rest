@@ -1,1 +1,3 @@
-com/jwt/rest/HelloWorldService.class
+malinoski/rest/HelloWorldService.class
+malinoski/rest/notification/Notification.class
+malinoski/rest/notification/NotificationRestService.class
