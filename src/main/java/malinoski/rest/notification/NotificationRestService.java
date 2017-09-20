@@ -15,6 +15,7 @@ public class NotificationRestService {
         List<Notification> notifications = new ArrayList<Notification>();
         notifications.add(new Notification(1, "New user created"));
         notifications.add(new Notification(2, "New order created"));
+        
         return notifications;
     }
     

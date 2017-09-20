@@ -1,8 +1,9 @@
 package malinoski.rest.notification;
 
+import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+@XmlRootElement(name = "notification")
 public class Notification {
 
     private Integer id;
@@ -19,10 +20,12 @@ public class Notification {
         this.message = message;
     }
 
+    @XmlElement(name = "id")
     public Integer getId() {
         return id;
     }
 
+    @XmlElement(name = "message")
     public String getMessage() {
         return message;
     }
