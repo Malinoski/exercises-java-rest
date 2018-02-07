@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h2>Hello <b>Jersey RESTful Services exercises</b></h2>
+	<h2>Hello <b>Jersey RESTful Services</b></h2>
 	<a href="./rest/hello-jersey" target="_blank">
 		http://localhost:8080/exercises-java-rest/rest/hello-jersey
 	</a>
