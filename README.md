@@ -1,4 +1,4 @@
-# Jersey RESTful Services samples
+# Jersey RESTful Services [samples]
 
 To test:
 
