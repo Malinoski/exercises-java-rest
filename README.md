@@ -1,4 +1,4 @@
-# Jersey RESTful Services exercises
+# Jersey RESTful Services samples
 
 To test:
 
